@@ -1,5 +1,5 @@
 /******
-
+-------------------------------------------------------------ROUND- B, 2020 -----------------------------------------------------------------------------------------
 Problem
 Bucket is planning to make a very long journey across the countryside by bus. Her journey consists of N bus routes,
 numbered from 1 to N in the order she must take them. The buses themselves are very fast, but do not run often. The i-th bus route only runs every Xi days.
